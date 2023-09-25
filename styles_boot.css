@@ -1,0 +1,12 @@
+.goats {
+    
+    text-align: center;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+
+.videos {
+    width: 50%; 
+    float: right; 
+}
